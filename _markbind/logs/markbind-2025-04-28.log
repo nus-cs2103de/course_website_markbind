@@ -1,0 +1,288 @@
+2025-04-28T14:33:19.927Z - info: Website generation (lazy) started at 22:33:19
+2025-04-28T14:33:20.177Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2425S2!website.git/book/_markbind/variables.md'
+2025-04-28T14:33:20.177Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2425S2!website.git/_markbind/variables.md'
+2025-04-28T14:33:20.196Z - info: Building assets...
+2025-04-28T14:33:21.893Z - info: Assets built
+2025-04-28T14:33:21.894Z - info: Generating landing page...
+2025-04-28T14:33:22.206Z - info: Landing page built, other pages will be built as you navigate to them!
+2025-04-28T14:33:22.272Z - info: Site data built
+2025-04-28T14:33:22.272Z - info: Website generation (lazy) complete! Total build time: 3.126s
+2025-04-28T14:33:22.281Z - info: Serving "/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_site" at http://127.0.0.1:8080
+2025-04-28T14:33:22.281Z - info: Press CTRL+C to stop ...
+2025-04-28T14:37:23.504Z - info: [22:37:23] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/exams.md
+2025-04-28T14:37:23.513Z - info: Synchronizing opened pages list before reload
+2025-04-28T14:37:23.516Z - info: Current opened pages, from most-to-least recent:
+2025-04-28T14:37:23.516Z - info: 1. index
+2025-04-28T14:37:24.523Z - info: Rebuilding 1 pages
+2025-04-28T14:37:24.824Z - info: Site data built
+2025-04-28T14:37:24.824Z - info: Pages rebuilt
+2025-04-28T14:37:24.824Z - info: Website regeneration complete! Total build time: 0.303s
+2025-04-28T14:38:36.755Z - info: [22:38:36] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/exams.md
+2025-04-28T14:38:36.756Z - info: Synchronizing opened pages list before reload
+2025-04-28T14:38:36.757Z - info: Current opened pages, from most-to-least recent:
+2025-04-28T14:38:36.758Z - info: 1. index
+2025-04-28T14:38:37.763Z - info: Rebuilding 1 pages
+2025-04-28T14:38:38.018Z - info: Site data built
+2025-04-28T14:38:38.018Z - info: Pages rebuilt
+2025-04-28T14:38:38.018Z - info: Website regeneration complete! Total build time: 0.258s
+2025-04-28T14:38:52.260Z - info: [22:38:52] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/exams.md
+2025-04-28T14:38:52.260Z - info: Synchronizing opened pages list before reload
+2025-04-28T14:38:52.261Z - info: Current opened pages, from most-to-least recent:
+2025-04-28T14:38:52.261Z - info: 1. index
+2025-04-28T14:38:53.265Z - info: Rebuilding 1 pages
+2025-04-28T14:38:53.463Z - info: Site data built
+2025-04-28T14:38:53.463Z - info: Pages rebuilt
+2025-04-28T14:38:53.463Z - info: Website regeneration complete! Total build time: 0.2s
+2025-04-28T14:40:11.825Z - info: [22:40:11] Reload for file add: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/images/examplifyQuestionAttachment.png
+2025-04-28T14:40:11.826Z - info: Synchronizing opened pages list before reload
+2025-04-28T14:40:11.827Z - info: Current opened pages, from most-to-least recent:
+2025-04-28T14:40:11.827Z - info: 1. index
+2025-04-28T14:40:13.034Z - info: Assets built
+2025-04-28T14:41:00.933Z - info: [22:41:00] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/exams.md
+2025-04-28T14:41:00.935Z - info: Synchronizing opened pages list before reload
+2025-04-28T14:41:00.936Z - info: Current opened pages, from most-to-least recent:
+2025-04-28T14:41:00.936Z - info: 1. index
+2025-04-28T14:41:01.943Z - info: Rebuilding 1 pages
+2025-04-28T14:41:02.207Z - info: Site data built
+2025-04-28T14:41:02.207Z - info: Pages rebuilt
+2025-04-28T14:41:02.207Z - info: Website regeneration complete! Total build time: 0.266s
+2025-04-28T14:42:14.408Z - info: [22:42:14] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/images/examplifyQuestionAttachment.png
+2025-04-28T14:42:14.409Z - info: Synchronizing opened pages list before reload
+2025-04-28T14:42:14.409Z - info: Current opened pages, from most-to-least recent:
+2025-04-28T14:42:14.409Z - info: 1. index
+2025-04-28T14:42:15.418Z - info: Assets built
+2025-04-28T14:43:04.502Z - info: [22:43:04] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/exams.md
+2025-04-28T14:43:04.503Z - info: Synchronizing opened pages list before reload
+2025-04-28T14:43:04.503Z - info: Current opened pages, from most-to-least recent:
+2025-04-28T14:43:04.503Z - info: 1. index
+2025-04-28T14:43:05.513Z - info: Rebuilding 1 pages
+2025-04-28T14:43:05.713Z - info: Site data built
+2025-04-28T14:43:05.713Z - info: Pages rebuilt
+2025-04-28T14:43:05.713Z - info: Website regeneration complete! Total build time: 0.203s
+2025-04-28T14:45:38.447Z - info: Website generation started at 22:45:37
+2025-04-28T14:45:38.713Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2425S2!website.git/book/_markbind/variables.md'
+2025-04-28T14:45:38.714Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2425S2!website.git/_markbind/variables.md'
+2025-04-28T14:45:38.733Z - info: Building assets...
+2025-04-28T14:45:40.360Z - info: Assets built
+2025-04-28T14:45:40.360Z - info: Generating pages...
+2025-04-28T14:45:48.462Z - debug:  
+2025-04-28T14:45:48.462Z - debug: 2025-04-28 22:45:43.518 java[84807:3158000] +[IMKClient subclass]: chose IMKClient_Modern
+2025-04-28 22:45:43.518 java[84807:3158000] +[IMKInputSession subclass]: chose IMKInputSession_Modern
+
+2025-04-28T14:45:48.462Z - debug:  
+2025-04-28T14:45:48.462Z - debug:  
+2025-04-28T14:45:48.462Z - debug:  
+2025-04-28T14:45:48.462Z - debug:  
+2025-04-28T14:45:48.462Z - debug:  
+2025-04-28T14:45:48.462Z - debug:  
+2025-04-28T14:45:48.462Z - debug:  
+2025-04-28T14:45:48.462Z - debug:  
+2025-04-28T14:45:48.462Z - debug: 2025-04-28 22:45:45.389 java[84837:3158418] +[IMKClient subclass]: chose IMKClient_Modern
+2025-04-28 22:45:45.389 java[84837:3158418] +[IMKInputSession subclass]: chose IMKInputSession_Modern
+
+2025-04-28T14:45:48.462Z - debug:  
+2025-04-28T14:45:48.462Z - debug:  
+2025-04-28T14:45:48.462Z - debug:  
+2025-04-28T14:45:48.462Z - debug:  
+2025-04-28T14:45:48.462Z - debug:  
+2025-04-28T14:45:49.505Z - debug:  
+2025-04-28T14:45:58.875Z - debug: 2025-04-28 22:45:58.467 java[84915:3160007] +[IMKClient subclass]: chose IMKClient_Modern
+2025-04-28 22:45:58.467 java[84915:3160007] +[IMKInputSession subclass]: chose IMKInputSession_Modern
+
+2025-04-28T14:46:48.951Z - debug: 2025-04-28 22:46:46.502 java[84995:3162380] +[IMKClient subclass]: chose IMKClient_Modern
+2025-04-28 22:46:46.502 java[84995:3162380] +[IMKInputSession subclass]: chose IMKInputSession_Modern
+
+2025-04-28T14:47:00.024Z - debug:  
+2025-04-28T14:47:00.085Z - debug: 2025-04-28 22:46:59.261 java[85010:3162851] +[IMKClient subclass]: chose IMKClient_Modern
+2025-04-28 22:46:59.261 java[85010:3162851] +[IMKInputSession subclass]: chose IMKInputSession_Modern
+
+2025-04-28T14:47:07.285Z - info: Pages built
+2025-04-28T14:47:07.353Z - info: Site data built
+2025-04-28T14:47:07.353Z - info: Website generation complete! Total build time: 89.524s
+2025-04-28T14:47:07.353Z - info: Build success!
+2025-04-28T14:47:29.228Z - info: The website has been deployed at: https://nus-cs2103-ay2425s2.github.io/website
+2025-04-28T15:06:39.630Z - info: Website generation (lazy) started at 23:06:38
+2025-04-28T15:06:39.903Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2425S2!website.git/book/_markbind/variables.md'
+2025-04-28T15:06:39.903Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2425S2!website.git/_markbind/variables.md'
+2025-04-28T15:06:39.922Z - info: Building assets...
+2025-04-28T15:06:41.603Z - info: Assets built
+2025-04-28T15:06:41.604Z - info: Generating landing page...
+2025-04-28T15:06:41.921Z - info: Landing page built, other pages will be built as you navigate to them!
+2025-04-28T15:06:41.984Z - info: Site data built
+2025-04-28T15:06:41.984Z - info: Website generation (lazy) complete! Total build time: 3.135s
+2025-04-28T15:06:41.997Z - info: Serving "/Users/damithch/Repos/nus-cs2103/cs2103-website-base/_site" at http://127.0.0.1:8080
+2025-04-28T15:06:41.997Z - info: Press CTRL+C to stop ...
+2025-04-28T15:07:00.810Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/appendixC-faq as some of its dependencies were changed since the last visit
+2025-04-28T15:07:02.584Z - info: Site data built
+2025-04-28T15:07:02.585Z - info: Lazy website regeneration complete! Total build time: 1.776s
+2025-04-28T15:11:28.514Z - info: [23:11:28] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/faq-fragment.md
+2025-04-28T15:11:28.518Z - info: Synchronizing opened pages list before reload
+2025-04-28T15:11:28.519Z - info: Current opened pages, from most-to-least recent:
+2025-04-28T15:11:28.520Z - info: 1. admin/appendixC-faq
+2025-04-28T15:11:28.575Z - info: [23:11:28] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/faq-fragment.md
+2025-04-28T15:11:28.576Z - info: Synchronizing opened pages list before reload
+2025-04-28T15:11:28.576Z - info: Current opened pages, from most-to-least recent:
+2025-04-28T15:11:28.576Z - info: 1. admin/appendixC-faq
+2025-04-28T15:11:29.540Z - info: Rebuilding 1 pages
+2025-04-28T15:11:31.293Z - info: Site data built
+2025-04-28T15:11:31.293Z - info: Pages rebuilt
+2025-04-28T15:11:31.294Z - info: Website regeneration complete! Total build time: 1.759s
+2025-04-28T15:12:48.225Z - info: [23:12:48] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/exams.md
+2025-04-28T15:12:48.226Z - info: Synchronizing opened pages list before reload
+2025-04-28T15:12:48.226Z - info: Current opened pages, from most-to-least recent:
+2025-04-28T15:12:48.227Z - info: 1. admin/appendixC-faq
+2025-04-28T15:12:49.236Z - info: No pages needed to be rebuilt
+2025-04-28T15:13:01.360Z - info: [23:13:01] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/exams.md
+2025-04-28T15:13:01.361Z - info: Synchronizing opened pages list before reload
+2025-04-28T15:13:01.361Z - info: Current opened pages, from most-to-least recent:
+2025-04-28T15:13:01.361Z - info: 1. admin/appendixC-faq
+2025-04-28T15:13:02.364Z - info: No pages needed to be rebuilt
+2025-04-28T15:13:06.847Z - info: Building /Users/damithch/Repos/nus-cs2103/cs2103-website-base/index as some of its dependencies were changed since the last visit
+2025-04-28T15:13:07.136Z - info: Site data built
+2025-04-28T15:13:07.137Z - info: Lazy website regeneration complete! Total build time: 0.29s
+2025-04-28T15:14:10.762Z - info: [23:14:10] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/exams.md
+2025-04-28T15:14:10.764Z - info: Synchronizing opened pages list before reload
+2025-04-28T15:14:10.765Z - info: Current opened pages, from most-to-least recent:
+2025-04-28T15:14:10.766Z - info: 1. index
+2025-04-28T15:14:11.779Z - info: Rebuilding 1 pages
+2025-04-28T15:14:11.938Z - error:  Error: No such segment '#faq--Q' in file: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/faq-fragment.md
+Missing reference in /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/exams.md
+    at processInclude (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/includePanelProcessor.js:238:27)
+    at NodeProcessor.processNode (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:173:71)
+    at NodeProcessor.traverse (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:342:24)
+    at /opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:346:22
+    at Array.forEach (<anonymous>)
+    at NodeProcessor.traverse (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:345:27)
+    at /opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:346:22
+    at Array.forEach (<anonymous>)
+    at NodeProcessor.traverse (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:345:27)
+    at /opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:346:22
+    at Array.forEach (<anonymous>)
+    at NodeProcessor.traverse (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:345:27)
+    at /opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:346:22
+    at Array.forEach (<anonymous>)
+    at NodeProcessor.traverse (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:345:27)
+    at /opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:346:22
+2025-04-28T15:14:11.947Z - error:  Error: No such segment '#faq--A' in file: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/faq-fragment.md
+Missing reference in /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/exams.md
+    at processInclude (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/includePanelProcessor.js:238:27)
+    at NodeProcessor.processNode (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:173:71)
+    at NodeProcessor.traverse (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:342:24)
+    at /opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:346:22
+    at Array.forEach (<anonymous>)
+    at NodeProcessor.traverse (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:345:27)
+    at /opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:346:22
+    at Array.forEach (<anonymous>)
+    at NodeProcessor.traverse (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:345:27)
+    at /opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:346:22
+    at Array.forEach (<anonymous>)
+    at NodeProcessor.traverse (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:345:27)
+    at /opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:346:22
+    at Array.forEach (<anonymous>)
+    at NodeProcessor.traverse (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:345:27)
+    at /opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/html/NodeProcessor.js:346:22
+2025-04-28T15:14:12.055Z - info: Site data built
+2025-04-28T15:14:12.055Z - info: Pages rebuilt
+2025-04-28T15:14:12.055Z - info: Website regeneration complete! Total build time: 0.279s
+2025-04-28T15:15:01.306Z - info: [23:15:01] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/exams.md
+2025-04-28T15:15:01.306Z - info: Synchronizing opened pages list before reload
+2025-04-28T15:15:01.306Z - info: Current opened pages, from most-to-least recent:
+2025-04-28T15:15:01.306Z - info: 1. index
+2025-04-28T15:15:02.312Z - info: Rebuilding 1 pages
+2025-04-28T15:15:02.607Z - info: Site data built
+2025-04-28T15:15:02.607Z - info: Pages rebuilt
+2025-04-28T15:15:02.607Z - info: Website regeneration complete! Total build time: 0.297s
+2025-04-28T15:15:09.481Z - info: [23:15:09] Reload for file change: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/admin/exams.md
+2025-04-28T15:15:09.481Z - info: Synchronizing opened pages list before reload
+2025-04-28T15:15:09.481Z - info: Current opened pages, from most-to-least recent:
+2025-04-28T15:15:09.482Z - info: 1. index
+2025-04-28T15:15:10.500Z - info: Rebuilding 1 pages
+2025-04-28T15:15:10.726Z - info: Site data built
+2025-04-28T15:15:10.726Z - info: Pages rebuilt
+2025-04-28T15:15:10.726Z - info: Website regeneration complete! Total build time: 0.229s
+2025-04-28T15:16:40.285Z - info: Website generation started at 23:16:39
+2025-04-28T15:16:40.549Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2425S2!website.git/book/_markbind/variables.md'
+2025-04-28T15:16:40.549Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2425S2!website.git/_markbind/variables.md'
+2025-04-28T15:16:40.569Z - info: Building assets...
+2025-04-28T15:16:42.191Z - info: Assets built
+2025-04-28T15:16:42.191Z - info: Generating pages...
+2025-04-28T15:16:49.158Z - debug:  
+2025-04-28T15:16:49.158Z - debug: 2025-04-28 23:16:45.192 java[85758:3199284] +[IMKClient subclass]: chose IMKClient_Modern
+2025-04-28 23:16:45.192 java[85758:3199284] +[IMKInputSession subclass]: chose IMKInputSession_Modern
+
+2025-04-28T15:16:49.635Z - debug:  
+2025-04-28T15:16:49.635Z - debug:  
+2025-04-28T15:16:49.635Z - debug:  
+2025-04-28T15:16:49.635Z - debug:  
+2025-04-28T15:16:49.635Z - debug:  
+2025-04-28T15:16:49.636Z - debug:  
+2025-04-28T15:16:49.636Z - debug:  
+2025-04-28T15:16:49.636Z - debug:  
+2025-04-28T15:16:49.636Z - debug:  
+2025-04-28T15:16:49.636Z - debug:  
+2025-04-28T15:16:49.636Z - debug: 2025-04-28 23:16:47.020 java[85783:3199470] +[IMKClient subclass]: chose IMKClient_Modern
+2025-04-28 23:16:47.020 java[85783:3199470] +[IMKInputSession subclass]: chose IMKInputSession_Modern
+
+2025-04-28T15:16:49.636Z - debug:  
+2025-04-28T15:16:49.636Z - debug:  
+2025-04-28T15:16:49.636Z - debug:  
+2025-04-28T15:16:50.254Z - debug: 2025-04-28 23:16:49.882 java[85816:3200474] +[IMKClient subclass]: chose IMKClient_Modern
+2025-04-28 23:16:49.882 java[85816:3200474] +[IMKInputSession subclass]: chose IMKInputSession_Modern
+
+2025-04-28T15:17:00.416Z - debug: 2025-04-28 23:16:59.661 java[85841:3200924] +[IMKClient subclass]: chose IMKClient_Modern
+2025-04-28 23:16:59.661 java[85841:3200924] +[IMKInputSession subclass]: chose IMKInputSession_Modern
+
+2025-04-28T15:17:46.212Z - debug: 2025-04-28 23:17:43.893 java[85865:3201687] +[IMKClient subclass]: chose IMKClient_Modern
+2025-04-28 23:17:43.893 java[85865:3201687] +[IMKInputSession subclass]: chose IMKInputSession_Modern
+
+2025-04-28T15:17:57.609Z - debug: 2025-04-28 23:17:56.803 java[85877:3202064] +[IMKClient subclass]: chose IMKClient_Modern
+2025-04-28 23:17:56.804 java[85877:3202064] +[IMKInputSession subclass]: chose IMKInputSession_Modern
+
+2025-04-28T15:17:57.628Z - debug:  
+2025-04-28T15:18:04.796Z - info: Pages built
+2025-04-28T15:18:04.870Z - info: Site data built
+2025-04-28T15:18:04.870Z - info: Website generation complete! Total build time: 85.205s
+2025-04-28T15:18:04.870Z - info: Build success!
+2025-04-28T15:18:26.657Z - info: The website has been deployed at: https://nus-cs2103-ay2425s2.github.io/website
+2025-04-28T15:42:25.596Z - info: Website generation started at 23:42:24
+2025-04-28T15:42:25.879Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2425S2!website.git/book/_markbind/variables.md'
+2025-04-28T15:42:25.880Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2425S2!website.git/_markbind/variables.md'
+2025-04-28T15:42:25.899Z - info: Building assets...
+2025-04-28T15:42:27.717Z - info: Assets built
+2025-04-28T15:42:27.717Z - info: Generating pages...
+2025-04-28T15:42:34.852Z - debug:  
+2025-04-28T15:42:34.852Z - debug: 2025-04-28 23:42:31.065 java[86440:3234151] +[IMKClient subclass]: chose IMKClient_Modern
+2025-04-28 23:42:31.065 java[86440:3234151] +[IMKInputSession subclass]: chose IMKInputSession_Modern
+
+2025-04-28T15:42:35.247Z - debug:  
+2025-04-28T15:42:35.247Z - debug:  
+2025-04-28T15:42:35.247Z - debug:  
+2025-04-28T15:42:35.247Z - debug:  
+2025-04-28T15:42:35.247Z - debug:  
+2025-04-28T15:42:35.247Z - debug:  
+2025-04-28T15:42:35.247Z - debug:  
+2025-04-28T15:42:35.247Z - debug:  
+2025-04-28T15:42:35.247Z - debug:  
+2025-04-28T15:42:35.247Z - debug:  
+2025-04-28T15:42:35.247Z - debug:  
+2025-04-28T15:42:35.247Z - debug:  
+2025-04-28T15:42:35.247Z - debug: 2025-04-28 23:42:32.619 java[86473:3234468] +[IMKClient subclass]: chose IMKClient_Modern
+2025-04-28 23:42:32.619 java[86473:3234468] +[IMKInputSession subclass]: chose IMKInputSession_Modern
+
+2025-04-28T15:42:35.247Z - debug:  
+2025-04-28T15:42:36.656Z - debug:  
+2025-04-28T15:42:46.417Z - debug: 2025-04-28 23:42:46.021 java[86535:3235721] +[IMKClient subclass]: chose IMKClient_Modern
+2025-04-28 23:42:46.021 java[86535:3235721] +[IMKInputSession subclass]: chose IMKInputSession_Modern
+
+2025-04-28T15:43:39.594Z - debug: 2025-04-28 23:43:36.691 java[86611:3238963] +[IMKClient subclass]: chose IMKClient_Modern
+2025-04-28 23:43:36.691 java[86611:3238963] +[IMKInputSession subclass]: chose IMKInputSession_Modern
+
+2025-04-28T15:43:51.977Z - debug: 2025-04-28 23:43:51.161 java[86624:3239867] +[IMKClient subclass]: chose IMKClient_Modern
+2025-04-28 23:43:51.161 java[86624:3239867] +[IMKInputSession subclass]: chose IMKInputSession_Modern
+
+2025-04-28T15:43:52.176Z - debug:  
+2025-04-28T15:43:59.317Z - info: Pages built
+2025-04-28T15:43:59.394Z - info: Site data built
+2025-04-28T15:43:59.394Z - info: Website generation complete! Total build time: 94.621s
+2025-04-28T15:43:59.395Z - info: Build success!
+2025-04-28T15:44:20.609Z - info: The website has been deployed at: https://nus-cs2103-ay2425s2.github.io/website
