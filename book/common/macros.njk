@@ -1,10 +1,203 @@
-{% macro show_git_tabs(filename_suffix='') -%}
+{%- macro slugify(text) %}{{ text | lower | replace(r/[\'\s\/]/g, '-') | replace(r/[\(\)%:,&\`\[\]\+]/g, '') }}{% endmacro -%}
+<!-- ============================================================ -->
+
+{%- macro bold_number(text) %}{{ "{" }} text="{{ text }}" t-class="fw-bold" {{ "}" }}{% endmacro -%}
+<!-- ============================================================ -->
+
+{%- macro hp_number(text) %}<span style="position: relative; right: 25px;" class="badge rounded-pill text-dark bg-secondary text-white">{{ text }}</span>{% endmacro -%}
+<!-- ============================================================ -->
+
+{%- macro label(style, text) %}<span class="badge bg-{{ style }} text-{{ 'dark' if style in ['warning', 'light'] else 'white' }}">{{ text }}</span>{% endmacro -%}
+<!-- ============================================================ -->
+
+{% macro show_output(indent_level='') %}
+{% if indent_level %}<div class="indented-level{{ indent_level }}">{% endif %}
+<div class="d-flex">
+<div class="me-3">
+<span><md>**%%⤷%%**</md></span>
+</div>
+<div class="flex-grow-1">
+
+{{ caller() }}
+
+</div>
+</div>
+{% if indent_level %}</div>{% endif %}
+{% endmacro %}
+<!-- ============================================================ -->
+
+{% set trail = {
+  tour_recording_snapshots: {
+    title: "Tour 1: Recording the History of a Folder",
+    folder: "recordingFolderHistory",
+    lessons: {
+      git_prep: {path: "gitAndGithub/gitPrep", title: "Lesson: Preparing to Use Git"},
+      init: {path: "gitAndGithub/init", title: "Lesson: Putting a Folder Under Git's Control"},
+      stage: {path: "gitAndGithub/stage", title: "Lesson: Specifying What to Include in a Snapshot"},
+      commit: {path: "gitAndGithub/commit", title: "Lesson: Saving a Snapshot"}
+    }
+  }
+} %}
+<!-- ============================================================ -->
+
+{% macro show_tour_title(text) %}<div class="text-white bg-success p-1" style="border-top-left-radius: 15px; border-top-right-radius: 15px;"><span class="h2"><span class="text-light"><md>:fas-map-marker-alt:</md></span> {{ text }}</span></div>{% endmacro %}
+<!-- ============================================================ -->
+{% macro show_git_tabs(filename_suffix='', indent_level='') -%}
+{% if indent_level %}<div class="indented-level{{ indent_level }}">{% endif %}
 <tabs>
-  <tab header="Sourcetree">
-    <include src="./sourcetree{{ filename_suffix }}.md" />
-  </tab>
   <tab header="CLI">
     <include src="./cli{{ filename_suffix }}.md" />
   </tab>
+  <tab header="Sourcetree">
+    <include src="./sourcetree{{ filename_suffix }}.md" />
+  </tab>
 </tabs>
+{% if indent_level %}</div>{% endif %}
 {%- endmacro %}
+<!-- ============================================================ -->
+
+{% macro show_hands_on_practical(title) %}
+<span style="position: relative; top: 10px;" class="badge rounded-pill bg-secondary fs-6">{{ icon_hands_on }} HANDS-ON: {{ title }}</span>
+<div class="indented-level1">
+
+<box type="dark" seamless no-icon>
+
+{{ caller() }}
+</box>
+</div>
+{% endmacro %}
+<!-- ============================================================ -->
+
+{% macro callout() %}
+<div class="indented-level2 non-printable">
+
+<div class="callout shadow">
+
+**What is this?**{.text-info} {{ caller() }}
+</div>
+</div>
+{% endmacro %}
+<!-- ============================================================ -->
+
+{% macro show_detour(title) %}
+<panel header="{{ icon_detour }} DETOUR: **{{ title }}**" type="warning" peek>
+
+{{ caller() }}
+</panel>
+{% endmacro %}
+<!-- ============================================================ -->
+
+{% macro show_under_the_hood(title, indent_level='') %}
+{% if indent_level %}<div class="indented-level{{ indent_level }}">{% endif %}
+
+<panel header="{{ icon_under_the_hood }} UNDER-THE-HOOD: **{{ title }}**" type="info" >
+
+{{ caller() }}
+</panel>
+{% if indent_level %}</div>{% endif %}
+{% endmacro %}
+<!-- ============================================================ -->
+
+{% macro show_exercise(identifier) %}
+<panel type="danger" header="{{ icon_exercise }} EXERCISE: `{{ identifier }}`">
+
+**Description** is [here](https://github.com/git-mastery/exercises/tree/main/{{ identifier | replace("-", "_") }}).<br>
+**To download** the exercise, run `gitmastery download {{ identifer }}`<br>
+**To verify** your solution, run `gitmastery verify`
+
+</panel>
+{% endmacro %}
+<!-- ============================================================ -->
+
+{% macro show_lesson_intro() %}
+<div class="border border-success pt-0 ps-1 pb-1 pe-1 border-bottom-0 rounded-top" style="background-color: #e6fff2">
+
+<div class="indented">
+<br>
+<div id="overview" >
+{{ caller() }}
+
+</div>
+<span><small>This lesson covers that part.</small></span>
+</div>
+</div>
+<br>
+{% endmacro %}
+<!-- ============================================================ -->
+
+{% macro show_lesson_overview(lesson_data) %}
+<div class="indented-level1">
+
+<div class="border border-success pt-2 ps-2 pb-1 pe-1 border-bottom-0 rounded-top" style="background-color: #e6fff2">
+<include src="{{ baseUrl }}/{{ lesson_data.path }}/text.md#overview" inline />
+</div>
+
+
+&nbsp;&nbsp;→ **[{{ lesson_data.title }}](#{{ slugify(lesson_data.title) }})** covers that part.
+</div>
+{% endmacro %}
+<!-- ============================================================ -->
+
+{% macro show_lesson(lesson_data) %}
+<panel type="seamless" popup-url="{{ baseUrl }}/{{ lesson_data.path }}/" expanded>
+<div slot="header" class="card-title">
+
+### <span class="text-success">{{ lesson_data.title }}</span>
+</div>
+
+<div class="indented-level1">
+
+<small>[<span class="font-weight-bold text-muted">Textbook location: <include src="{{ baseUrl }}/{{ lesson_data.path }}/../path.md" inline trim /> **<include src="{{ baseUrl }}/{{ lesson_data.path }}/text.md#title" inline />**]</span></small>
+</div>
+<include src="{{ baseUrl }}/{{ lesson_data.path }}/unit-inElsewhere-asPanelBody.md" boilerplate />
+</panel>
+{% endmacro %}
+<!-- ============================================================ -->
+
+{% macro show_tour(tour) %}
+{% set tour_folder = baseUrl + "/gitAndGithub/trail/" + tour.folder %}
+<div style=" background-color: #e6fff2; border-top-left-radius: 15px; border-top-right-radius: 15px;">
+
+{{ show_tour_title(tour.title) }}
+<div class="p-3">
+
+**Destination**: <include src="{{ tour_folder }}/text.md#destination" trim inline/>
+
+**Motivation**: <include src="{{ tour_folder }}/text.md#motivation" trim inline/>
+
+**Route**:
+{% for lesson_name, lesson_data in tour.lessons %}
+{{ show_lesson_overview(lesson_data) }}
+{% endfor %}
+
+</div>
+</div>
+
+{% for lesson_name, lesson_data in tour.lessons %}
+{{ show_lesson(lesson_data) }}
+{% endfor %}
+
+<div style="background-color: #e6fff2; border-bottom-left-radius: 15px; border-bottom-right-radius: 15px;" class="p-3 border-bottom border-5 border-success">
+
+**What you learned**: <include src="{{ tour_folder }}/text.md#achievements" trim inline/>
+
+**What's next**: <include src="{{ tour_folder }}/text.md#next" trim inline/>
+
+</div>
+{% endmacro %}
+<!-- ============================================================ -->
+
+{% macro show_tour_overview(tour) %}
+
+<div class="indented-level1">
+
+<div class="border border-success pt-2 ps-2 pb-1 pe-1 border-bottom-0 rounded-top" style="background-color: #e6fff2">
+Target use case: <include src="{{ tour.folder }}/text.md#destination" trim inline/>
+<p/>
+<small>This use case is covered by,</small>
+</div>
+
+&nbsp;&nbsp;&nbsp;&nbsp;→ **[<md>++{{ tour.title  }}++</md>]({{ baseUrl }}/gitAndGithub/trail/{{ tour.folder }}/)**
+</div>
+{% endmacro %}
+<!-- ============================================================ -->

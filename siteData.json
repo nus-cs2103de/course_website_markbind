@@ -1404,7 +1404,9 @@
       "src": "se-book-adapted/chapters/gitAndGithub.md",
       "title": "Git and Github",
       "headings": {
+        "preparing-to-use-git": "Preparing to use Git",
         "init-getting-started": "init: Getting started",
+        "specifying-what-to-include-in-a-snapshot": "Specifying what to include in a snapshot",
         "commit-saving-changes-to-history": "commit: Saving changes to history",
         "omitting-files-from-revision-control": "Omitting files from revision control",
         "tag-naming-commits": "tag: Naming commits",
@@ -1422,6 +1424,11 @@
         "reviewing-prs": "Reviewing PRs",
         "merging-prs": "Merging PRs",
         "forking-workflow": "Forking Workflow",
+        "tour-1-recording-the-history-of-a-folder": "Tour 1: Recording the History of a Folder",
+        "lesson-preparing-to-use-git": "Lesson: Preparing to Use Git",
+        "lesson-putting-a-folder-under-git-s-control": "Lesson: Putting a Folder Under Git's Control",
+        "lesson-specifying-what-to-include-in-a-snapshot": "Lesson: Specifying What to Include in a Snapshot",
+        "lesson-saving-a-snapshot": "Lesson: Saving a Snapshot",
         "working-with-multiple-remotes": "Working with multiple remotes",
         "resources": " Resources:",
         "resources-2": " Resources:",
@@ -2115,6 +2122,15 @@
         "d-trivia": "D-Trivia",
         "d-clients": "D-Clients",
         "d-merchandise": "D-Merchandise"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "se-book-adapted/git-trail/index.md",
+      "title": "Git Learning Trail",
+      "headings": {
+        "git-learning-trail": " Git Learning Trail",
+        "tours": "Tours"
       },
       "headingKeywords": {}
     },
