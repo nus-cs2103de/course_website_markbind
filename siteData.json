@@ -1732,14 +1732,6 @@
       "headingKeywords": {}
     },
     {
-      "src": "se-book-adapted/chapters/revisionControl.md",
-      "title": null,
-      "headings": {
-        "no-such-file-users-damithch-repos-nus-cs2103-cs2103-website-base-book-undefined-text-md-missing-reference-in-users-damithch-repos-nus-cs2103-cs2103-website-base-se-book-adapted-chapters-revisioncontrol-md": "No such file: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/undefined/text.md\nMissing reference in /Users/damithch/Repos/nus-cs2103/cs2103-website-base/se-book-adapted/chapters/revisionControl.md"
-      },
-      "headingKeywords": {}
-    },
-    {
       "src": "se-book-adapted/chapters/softwareEngineering.md",
       "title": "Software Engineering",
       "headings": {
