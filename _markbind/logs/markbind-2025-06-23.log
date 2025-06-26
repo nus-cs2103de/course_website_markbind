@@ -418,3 +418,47 @@ Segment '#title' in file: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/b
 2025-06-23T02:54:58.643Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2526S1!website.git/book/_markbind/variables.md'
 2025-06-23T02:54:58.643Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2526S1!website.git/_markbind/variables.md'
 2025-06-23T02:54:58.667Z - info: Building assets...
+2025-06-23T02:55:00.607Z - info: Assets built
+2025-06-23T02:55:00.608Z - info: Generating pages...
+2025-06-23T02:55:04.313Z - warn: Empty reference in /Users/damithch/Repos/nus-cs2103/cs2103-website-base/se-book-adapted/print.md:
+Segment '#title' in file: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/trail/text.md is empty
+2025-06-23T02:55:09.810Z - debug:  
+2025-06-23T02:55:09.810Z - debug:  
+2025-06-23T02:55:09.811Z - debug:  
+2025-06-23T02:55:09.811Z - debug:  
+2025-06-23T02:55:09.811Z - debug:  
+2025-06-23T02:55:09.811Z - debug:  
+2025-06-23T02:55:09.811Z - debug:  
+2025-06-23T02:55:09.811Z - debug:  
+2025-06-23T02:55:09.811Z - debug:  
+2025-06-23T02:55:09.939Z - debug:  
+2025-06-23T02:55:09.939Z - debug:  
+2025-06-23T02:55:09.939Z - debug:  
+2025-06-23T02:55:09.939Z - debug:  
+2025-06-23T02:55:09.939Z - debug:  
+2025-06-23T02:55:09.939Z - debug:  
+2025-06-23T02:55:09.939Z - debug:  
+2025-06-23T02:55:11.240Z - debug:  
+2025-06-23T02:55:21.817Z - debug:  
+2025-06-23T02:55:24.015Z - warn: Empty reference in /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/trail/container-inPage-asFlat.md:
+Segment '#title' in file: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/trail/text.md is empty
+2025-06-23T02:55:24.471Z - warn: Empty reference in /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/intro/unit-inElsewhere-asFlat.md:
+Segment '#title' in file: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/intro/text.md is empty
+2025-06-23T02:55:24.536Z - warn: Empty reference in /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/commit/unit-inParent-asPanel.md:
+Segment '#title' in file: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/commit/text.md is empty
+2025-06-23T02:55:24.970Z - warn: Empty reference in /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/fork/unit-inElsewhere-asFlat.md:
+Segment '#title' in file: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/fork/text.md is empty
+2025-06-23T02:55:25.084Z - warn: Empty reference in /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/commit/unit-inElsewhere-asFlat.md:
+Segment '#title' in file: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/commit/text.md is empty
+2025-06-23T02:55:37.919Z - warn: Empty reference in /Users/damithch/Repos/nus-cs2103/cs2103-website-base/se-book-adapted/chapters-printable/gitAndGithub-printable.md:
+Segment '#title' in file: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/trail/text.md is empty
+2025-06-23T02:55:42.461Z - warn: Empty reference in /Users/damithch/Repos/nus-cs2103/cs2103-website-base/se-book-adapted/chapters/gitAndGithub.md:
+Segment '#title' in file: /Users/damithch/Repos/nus-cs2103/cs2103-website-base/book/gitAndGithub/trail/text.md is empty
+2025-06-23T02:56:14.130Z - debug:  
+2025-06-23T02:56:26.236Z - debug:  
+2025-06-23T02:56:26.287Z - debug:  
+2025-06-23T02:56:33.192Z - info: Pages built
+2025-06-23T02:56:33.271Z - info: Site data built
+2025-06-23T02:56:33.271Z - info: Website generation complete! Total build time: 95.707s
+2025-06-23T02:56:33.271Z - info: Build success!
+2025-06-23T02:56:57.981Z - info: The website has been deployed at: https://nus-cs2103-ay2526s1.github.io/website
