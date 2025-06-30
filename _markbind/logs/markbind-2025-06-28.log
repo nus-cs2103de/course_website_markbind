@@ -1,0 +1,280 @@
+2025-06-28T08:47:58.935Z - info: Website generation started at 4:47:58 PM
+2025-06-28T08:47:59.111Z - info: Building assets...
+2025-06-28T08:47:59.346Z - info: Assets built
+2025-06-28T08:47:59.346Z - info: Generating pages...
+2025-06-28T08:48:07.217Z - debug: java.io.IOException: Cannot run program "/opt/local/bin/dot": error=2, No such file or directory
+	at java.base/java.lang.ProcessBuilder.start(ProcessBuilder.java:1170)
+	at java.base/java.lang.ProcessBuilder.start(ProcessBuilder.java:1089)
+	at java.base/java.lang.Runtime.exec(Runtime.java:681)
+	at net.sourceforge.plantuml.dot.ProcessRunner$MainThread.startThreads(ProcessRunner.java:165)
+	at net.sourceforge.plantuml.dot.ProcessRunner$MainThread.runJob(ProcessRunner.java:125)
+	at net.sourceforge.plantuml.api.TimeoutExecutor$MyThread.run(TimeoutExecutor.java:81)
+Caused by: java.io.IOException: error=2, No such file or directory
+	at java.base/java.lang.ProcessImpl.forkAndExec(Native Method)
+	at java.base/java.lang.ProcessImpl.<init>(ProcessImpl.java:295)
+	at java.base/java.lang.ProcessImpl.start(ProcessImpl.java:225)
+	at java.base/java.lang.ProcessBuilder.start(ProcessBuilder.java:1126)
+	... 5 more
+java.io.IOException: Cannot run program "/opt/local/bin/dot": error=2, No such file or directory
+	at java.base/java.lang.ProcessBuilder.start(ProcessBuilder.java:1170)
+	at java.base/java.lang.ProcessBuilder.start(ProcessBuilder.java:1089)
+	at java.base/java.lang.Runtime.exec(Runtime.java:681)
+	at net.sourceforge.plantuml.dot.ProcessRunner$MainThread.startThreads(ProcessRunner.java:165)
+	at net.sourceforge.plantuml.dot.ProcessRunner$MainThread.runJob(ProcessRunner.java:125)
+	at net.sourceforge.plantuml.api.TimeoutExecutor$MyThread.run(TimeoutExecutor.java:81)
+Caused by: java.io.IOException: error=2, No such file or directory
+	at java.base/java.lang.ProcessImpl.forkAndExec(Native Method)
+	at java.base/java.lang.ProcessImpl.<init>(ProcessImpl.java:295)
+	at java.base/java.lang.ProcessImpl.start(ProcessImpl.java:225)
+	at java.base/java.lang.ProcessBuilder.start(ProcessBuilder.java:1126)
+	... 5 more
+
+2025-06-28T08:48:07.425Z - debug: java.io.IOException: Cannot run program "/opt/local/bin/dot": error=2, No such file or directory
+	at java.base/java.lang.ProcessBuilder.start(ProcessBuilder.java:1170)
+	at java.base/java.lang.ProcessBuilder.start(ProcessBuilder.java:1089)
+	at java.base/java.lang.Runtime.exec(Runtime.java:681)
+	at net.sourceforge.plantuml.dot.ProcessRunner$MainThread.startThreads(ProcessRunner.java:165)
+	at net.sourceforge.plantuml.dot.ProcessRunner$MainThread.runJob(ProcessRunner.java:125)
+	at net.sourceforge.plantuml.api.TimeoutExecutor$MyThread.run(TimeoutExecutor.java:81)
+Caused by: java.io.IOException: error=2, No such file or directory
+	at java.base/java.lang.ProcessImpl.forkAndExec(Native Method)
+	at java.base/java.lang.ProcessImpl.<init>(ProcessImpl.java:295)
+	at java.base/java.lang.ProcessImpl.start(ProcessImpl.java:225)
+	at java.base/java.lang.ProcessBuilder.start(ProcessBuilder.java:1126)
+	... 5 more
+java.io.IOException: Cannot run program "/opt/local/bin/dot": error=2, No such file or directory
+	at java.base/java.lang.ProcessBuilder.start(ProcessBuilder.java:1170)
+	at java.base/java.lang.ProcessBuilder.start(ProcessBuilder.java:1089)
+	at java.base/java.lang.Runtime.exec(Runtime.java:681)
+	at net.sourceforge.plantuml.dot.ProcessRunner$MainThread.startThreads(ProcessRunner.java:165)
+	at net.sourceforge.plantuml.dot.ProcessRunner$MainThread.runJob(ProcessRunner.java:125)
+	at net.sourceforge.plantuml.api.TimeoutExecutor$MyThread.run(TimeoutExecutor.java:81)
+Caused by: java.io.IOException: error=2, No such file or directory
+	at java.base/java.lang.ProcessImpl.forkAndExec(Native Method)
+	at java.base/java.lang.ProcessImpl.<init>(ProcessImpl.java:295)
+	at java.base/java.lang.ProcessImpl.start(ProcessImpl.java:225)
+	at java.base/java.lang.ProcessBuilder.start(ProcessBuilder.java:1126)
+	... 5 more
+
+2025-06-28T08:48:07.628Z - debug: java.io.IOException: Cannot run program "/opt/local/bin/dot": error=2, No such file or directory
+	at java.base/java.lang.ProcessBuilder.start(ProcessBuilder.java:1170)
+	at java.base/java.lang.ProcessBuilder.start(ProcessBuilder.java:1089)
+	at java.base/java.lang.Runtime.exec(Runtime.java:681)
+	at net.sourceforge.plantuml.dot.ProcessRunner$MainThread.startThreads(ProcessRunner.java:165)
+	at net.sourceforge.plantuml.dot.ProcessRunner$MainThread.runJob(ProcessRunner.java:125)
+	at net.sourceforge.plantuml.api.TimeoutExecutor$MyThread.run(TimeoutExecutor.java:81)
+Caused by: java.io.IOException: error=2, No such file or directory
+	at java.base/java.lang.ProcessImpl.forkAndExec(Native Method)
+	at java.base/java.lang.ProcessImpl.<init>(ProcessImpl.java:295)
+	at java.base/java.lang.ProcessImpl.start(ProcessImpl.java:225)
+	at java.base/java.lang.ProcessBuilder.start(ProcessBuilder.java:1126)
+	... 5 more
+java.io.IOException: Cannot run program "/opt/local/bin/dot": error=2, No such file or directory
+	at java.base/java.lang.ProcessBuilder.start(ProcessBuilder.java:1170)
+	at java.base/java.lang.ProcessBuilder.start(ProcessBuilder.java:1089)
+	at java.base/java.lang.Runtime.exec(Runtime.java:681)
+	at net.sourceforge.plantuml.dot.ProcessRunner$MainThread.startThreads(ProcessRunner.java:165)
+	at net.sourceforge.plantuml.dot.ProcessRunner$MainThread.runJob(ProcessRunner.java:125)
+	at net.sourceforge.plantuml.api.TimeoutExecutor$MyThread.run(TimeoutExecutor.java:81)
+Caused by: java.io.IOException: error=2, No such file or directory
+	at java.base/java.lang.ProcessImpl.forkAndExec(Native Method)
+	at java.base/java.lang.ProcessImpl.<init>(ProcessImpl.java:295)
+	at java.base/java.lang.ProcessImpl.start(ProcessImpl.java:225)
+	at java.base/java.lang.ProcessBuilder.start(ProcessBuilder.java:1126)
+	... 5 more
+
+2025-06-28T08:48:07.633Z - debug:  
+2025-06-28T08:48:07.637Z - debug: java.io.IOException: Cannot run program "/opt/local/bin/dot": error=2, No such file or directory
+	at java.base/java.lang.ProcessBuilder.start(ProcessBuilder.java:1170)
+	at java.base/java.lang.ProcessBuilder.start(ProcessBuilder.java:1089)
+	at java.base/java.lang.Runtime.exec(Runtime.java:681)
+	at net.sourceforge.plantuml.dot.ProcessRunner$MainThread.startThreads(ProcessRunner.java:165)
+	at net.sourceforge.plantuml.dot.ProcessRunner$MainThread.runJob(ProcessRunner.java:125)
+	at net.sourceforge.plantuml.api.TimeoutExecutor$MyThread.run(TimeoutExecutor.java:81)
+Caused by: java.io.IOException: error=2, No such file or directory
+	at java.base/java.lang.ProcessImpl.forkAndExec(Native Method)
+	at java.base/java.lang.ProcessImpl.<init>(ProcessImpl.java:295)
+	at java.base/java.lang.ProcessImpl.start(ProcessImpl.java:225)
+	at java.base/java.lang.ProcessBuilder.start(ProcessBuilder.java:1126)
+	... 5 more
+java.io.IOException: Cannot run program "/opt/local/bin/dot": error=2, No such file or directory
+	at java.base/java.lang.ProcessBuilder.start(ProcessBuilder.java:1170)
+	at java.base/java.lang.ProcessBuilder.start(ProcessBuilder.java:1089)
+	at java.base/java.lang.Runtime.exec(Runtime.java:681)
+	at net.sourceforge.plantuml.dot.ProcessRunner$MainThread.startThreads(ProcessRunner.java:165)
+	at net.sourceforge.plantuml.dot.ProcessRunner$MainThread.runJob(ProcessRunner.java:125)
+	at net.sourceforge.plantuml.api.TimeoutExecutor$MyThread.run(TimeoutExecutor.java:81)
+Caused by: java.io.IOException: error=2, No such file or directory
+	at java.base/java.lang.ProcessImpl.forkAndExec(Native Method)
+	at java.base/java.lang.ProcessImpl.<init>(ProcessImpl.java:295)
+	at java.base/java.lang.ProcessImpl.start(ProcessImpl.java:225)
+	at java.base/java.lang.ProcessBuilder.start(ProcessBuilder.java:1126)
+	... 5 more
+
+2025-06-28T08:48:07.640Z - debug: java.io.IOException: Cannot run program "/opt/local/bin/dot": error=2, No such file or directory
+	at java.base/java.lang.ProcessBuilder.start(ProcessBuilder.java:1170)
+	at java.base/java.lang.ProcessBuilder.start(ProcessBuilder.java:1089)
+	at java.base/java.lang.Runtime.exec(Runtime.java:681)
+	at net.sourceforge.plantuml.dot.ProcessRunner$MainThread.startThreads(ProcessRunner.java:165)
+	at net.sourceforge.plantuml.dot.ProcessRunner$MainThread.runJob(ProcessRunner.java:125)
+	at net.sourceforge.plantuml.api.TimeoutExecutor$MyThread.run(TimeoutExecutor.java:81)
+Caused by: java.io.IOException: error=2, No such file or directory
+	at java.base/java.lang.ProcessImpl.forkAndExec(Native Method)
+	at java.base/java.lang.ProcessImpl.<init>(ProcessImpl.java:295)
+	at java.base/java.lang.ProcessImpl.start(ProcessImpl.java:225)
+	at java.base/java.lang.ProcessBuilder.start(ProcessBuilder.java:1126)
+	... 5 more
+java.io.IOException: Cannot run program "/opt/local/bin/dot": error=2, No such file or directory
+	at java.base/java.lang.ProcessBuilder.start(ProcessBuilder.java:1170)
+	at java.base/java.lang.ProcessBuilder.start(ProcessBuilder.java:1089)
+	at java.base/java.lang.Runtime.exec(Runtime.java:681)
+	at net.sourceforge.plantuml.dot.ProcessRunner$MainThread.startThreads(ProcessRunner.java:165)
+	at net.sourceforge.plantuml.dot.ProcessRunner$MainThread.runJob(ProcessRunner.java:125)
+	at net.sourceforge.plantuml.api.TimeoutExecutor$MyThread.run(TimeoutExecutor.java:81)
+Caused by: java.io.IOException: error=2, No such file or directory
+	at java.base/java.lang.ProcessImpl.forkAndExec(Native Method)
+	at java.base/java.lang.ProcessImpl.<init>(ProcessImpl.java:295)
+	at java.base/java.lang.ProcessImpl.start(ProcessImpl.java:225)
+	at java.base/java.lang.ProcessBuilder.start(ProcessBuilder.java:1126)
+	... 5 more
+
+2025-06-28T08:48:07.650Z - debug: java.io.IOException: Cannot run program "/opt/local/bin/dot": error=2, No such file or directory
+	at java.base/java.lang.ProcessBuilder.start(ProcessBuilder.java:1170)
+	at java.base/java.lang.ProcessBuilder.start(ProcessBuilder.java:1089)
+	at java.base/java.lang.Runtime.exec(Runtime.java:681)
+	at net.sourceforge.plantuml.dot.ProcessRunner$MainThread.startThreads(ProcessRunner.java:165)
+	at net.sourceforge.plantuml.dot.ProcessRunner$MainThread.runJob(ProcessRunner.java:125)
+	at net.sourceforge.plantuml.api.TimeoutExecutor$MyThread.run(TimeoutExecutor.java:81)
+Caused by: java.io.IOException: error=2, No such file or directory
+	at java.base/java.lang.ProcessImpl.forkAndExec(Native Method)
+	at java.base/java.lang.ProcessImpl.<init>(ProcessImpl.java:295)
+	at java.base/java.lang.ProcessImpl.start(ProcessImpl.java:225)
+	at java.base/java.lang.ProcessBuilder.start(ProcessBuilder.java:1126)
+	... 5 more
+java.io.IOException: Cannot run program "/opt/local/bin/dot": error=2, No such file or directory
+	at java.base/java.lang.ProcessBuilder.start(ProcessBuilder.java:1170)
+	at java.base/java.lang.ProcessBuilder.start(ProcessBuilder.java:1089)
+	at java.base/java.lang.Runtime.exec(Runtime.java:681)
+	at net.sourceforge.plantuml.dot.ProcessRunner$MainThread.startThreads(ProcessRunner.java:165)
+	at net.sourceforge.plantuml.dot.ProcessRunner$MainThread.runJob(ProcessRunner.java:125)
+	at net.sourceforge.plantuml.api.TimeoutExecutor$MyThread.run(TimeoutExecutor.java:81)
+Caused by: java.io.IOException: error=2, No such file or directory
+	at java.base/java.lang.ProcessImpl.forkAndExec(Native Method)
+	at java.base/java.lang.ProcessImpl.<init>(ProcessImpl.java:295)
+	at java.base/java.lang.ProcessImpl.start(ProcessImpl.java:225)
+	at java.base/java.lang.ProcessBuilder.start(ProcessBuilder.java:1126)
+	... 5 more
+
+2025-06-28T08:48:07.650Z - debug:  
+2025-06-28T08:48:07.650Z - debug:  
+2025-06-28T08:48:07.651Z - debug: java.io.IOException: Cannot run program "/opt/local/bin/dot": error=2, No such file or directory
+	at java.base/java.lang.ProcessBuilder.start(ProcessBuilder.java:1170)
+	at java.base/java.lang.ProcessBuilder.start(ProcessBuilder.java:1089)
+	at java.base/java.lang.Runtime.exec(Runtime.java:681)
+	at net.sourceforge.plantuml.dot.ProcessRunner$MainThread.startThreads(ProcessRunner.java:165)
+	at net.sourceforge.plantuml.dot.ProcessRunner$MainThread.runJob(ProcessRunner.java:125)
+	at net.sourceforge.plantuml.api.TimeoutExecutor$MyThread.run(TimeoutExecutor.java:81)
+Caused by: java.io.IOException: error=2, No such file or directory
+	at java.base/java.lang.ProcessImpl.forkAndExec(Native Method)
+	at java.base/java.lang.ProcessImpl.<init>(ProcessImpl.java:295)
+	at java.base/java.lang.ProcessImpl.start(ProcessImpl.java:225)
+	at java.base/java.lang.ProcessBuilder.start(ProcessBuilder.java:1126)
+	... 5 more
+java.io.IOException: Cannot run program "/opt/local/bin/dot": error=2, No such file or directory
+	at java.base/java.lang.ProcessBuilder.start(ProcessBuilder.java:1170)
+	at java.base/java.lang.ProcessBuilder.start(ProcessBuilder.java:1089)
+	at java.base/java.lang.Runtime.exec(Runtime.java:681)
+	at net.sourceforge.plantuml.dot.ProcessRunner$MainThread.startThreads(ProcessRunner.java:165)
+	at net.sourceforge.plantuml.dot.ProcessRunner$MainThread.runJob(ProcessRunner.java:125)
+	at net.sourceforge.plantuml.api.TimeoutExecutor$MyThread.run(TimeoutExecutor.java:81)
+Caused by: java.io.IOException: error=2, No such file or directory
+	at java.base/java.lang.ProcessImpl.forkAndExec(Native Method)
+	at java.base/java.lang.ProcessImpl.<init>(ProcessImpl.java:295)
+	at java.base/java.lang.ProcessImpl.start(ProcessImpl.java:225)
+	at java.base/java.lang.ProcessBuilder.start(ProcessBuilder.java:1126)
+	... 5 more
+
+2025-06-28T08:48:07.652Z - debug: java.io.IOException: Cannot run program "/opt/local/bin/dot": error=2, No such file or directory
+	at java.base/java.lang.ProcessBuilder.start(ProcessBuilder.java:1170)
+	at java.base/java.lang.ProcessBuilder.start(ProcessBuilder.java:1089)
+	at java.base/java.lang.Runtime.exec(Runtime.java:681)
+	at net.sourceforge.plantuml.dot.ProcessRunner$MainThread.startThreads(ProcessRunner.java:165)
+	at net.sourceforge.plantuml.dot.ProcessRunner$MainThread.runJob(ProcessRunner.java:125)
+	at net.sourceforge.plantuml.api.TimeoutExecutor$MyThread.run(TimeoutExecutor.java:81)
+Caused by: java.io.IOException: error=2, No such file or directory
+	at java.base/java.lang.ProcessImpl.forkAndExec(Native Method)
+	at java.base/java.lang.ProcessImpl.<init>(ProcessImpl.java:295)
+	at java.base/java.lang.ProcessImpl.start(ProcessImpl.java:225)
+	at java.base/java.lang.ProcessBuilder.start(ProcessBuilder.java:1126)
+	... 5 more
+java.io.IOException: Cannot run program "/opt/local/bin/dot": error=2, No such file or directory
+	at java.base/java.lang.ProcessBuilder.start(ProcessBuilder.java:1170)
+	at java.base/java.lang.ProcessBuilder.start(ProcessBuilder.java:1089)
+	at java.base/java.lang.Runtime.exec(Runtime.java:681)
+	at net.sourceforge.plantuml.dot.ProcessRunner$MainThread.startThreads(ProcessRunner.java:165)
+	at net.sourceforge.plantuml.dot.ProcessRunner$MainThread.runJob(ProcessRunner.java:125)
+	at net.sourceforge.plantuml.api.TimeoutExecutor$MyThread.run(TimeoutExecutor.java:81)
+Caused by: java.io.IOException: error=2, No such file or directory
+	at java.base/java.lang.ProcessImpl.forkAndExec(Native Method)
+	at java.base/java.lang.ProcessImpl.<init>(ProcessImpl.java:295)
+	at java.base/java.lang.ProcessImpl.start(ProcessImpl.java:225)
+	at java.base/java.lang.ProcessBuilder.start(ProcessBuilder.java:1126)
+	... 5 more
+
+2025-06-28T08:48:07.653Z - debug:  
+2025-06-28T08:48:07.653Z - debug:  
+2025-06-28T08:48:07.653Z - debug:  
+2025-06-28T08:48:07.653Z - debug:  
+2025-06-28T08:48:07.654Z - debug:  
+2025-06-28T08:48:07.654Z - debug:  
+2025-06-28T08:48:18.277Z - debug: java.io.IOException: Cannot run program "/opt/local/bin/dot": error=2, No such file or directory
+	at java.base/java.lang.ProcessBuilder.start(ProcessBuilder.java:1170)
+	at java.base/java.lang.ProcessBuilder.start(ProcessBuilder.java:1089)
+	at java.base/java.lang.Runtime.exec(Runtime.java:681)
+	at net.sourceforge.plantuml.dot.ProcessRunner$MainThread.startThreads(ProcessRunner.java:165)
+	at net.sourceforge.plantuml.dot.ProcessRunner$MainThread.runJob(ProcessRunner.java:125)
+	at net.sourceforge.plantuml.api.TimeoutExecutor$MyThread.run(TimeoutExecutor.java:81)
+Caused by: java.io.IOException: error=2, No such file or directory
+	at java.base/java.lang.ProcessImpl.forkAndExec(Native Method)
+	at java.base/java.lang.ProcessImpl.<init>(ProcessImpl.java:295)
+	at java.base/java.lang.ProcessImpl.start(ProcessImpl.java:225)
+	at java.base/java.lang.ProcessBuilder.start(ProcessBuilder.java:1126)
+	... 5 more
+java.io.IOException: Cannot run program "/opt/local/bin/dot": error=2, No such file or directory
+	at java.base/java.lang.ProcessBuilder.start(ProcessBuilder.java:1170)
+	at java.base/java.lang.ProcessBuilder.start(ProcessBuilder.java:1089)
+	at java.base/java.lang.Runtime.exec(Runtime.java:681)
+	at net.sourceforge.plantuml.dot.ProcessRunner$MainThread.startThreads(ProcessRunner.java:165)
+	at net.sourceforge.plantuml.dot.ProcessRunner$MainThread.runJob(ProcessRunner.java:125)
+	at net.sourceforge.plantuml.api.TimeoutExecutor$MyThread.run(TimeoutExecutor.java:81)
+Caused by: java.io.IOException: error=2, No such file or directory
+	at java.base/java.lang.ProcessImpl.forkAndExec(Native Method)
+	at java.base/java.lang.ProcessImpl.<init>(ProcessImpl.java:295)
+	at java.base/java.lang.ProcessImpl.start(ProcessImpl.java:225)
+	at java.base/java.lang.ProcessBuilder.start(ProcessBuilder.java:1126)
+	... 5 more
+
+2025-06-28T08:48:47.549Z - warn: Empty reference in /Users/zikunzhu/Desktop/course_website/course_website_markbind/schedule/week2/topics.md:
+Segment '#title' in file: /Users/zikunzhu/Desktop/course_website/course_website_markbind/book/gitAndGithub/trail/backingUpOnCloud/text.md is empty
+2025-06-28T08:48:47.550Z - warn: Empty reference in /Users/zikunzhu/Desktop/course_website/course_website_markbind/schedule/week2/topics.md:
+Segment '#title' in file: /Users/zikunzhu/Desktop/course_website/course_website_markbind/book/gitAndGithub/trail/usingRevisionHistory/text.md is empty
+2025-06-28T08:48:47.682Z - warn: Empty reference in /Users/zikunzhu/Desktop/course_website/course_website_markbind/schedule/week2/topics.md:
+Segment '#title' in file: /Users/zikunzhu/Desktop/course_website/course_website_markbind/book/gitAndGithub/trail/backingUpOnCloud/text.md is empty
+2025-06-28T08:48:47.725Z - warn: Empty reference in /Users/zikunzhu/Desktop/course_website/course_website_markbind/schedule/week2/topics.md:
+Segment '#title' in file: /Users/zikunzhu/Desktop/course_website/course_website_markbind/book/gitAndGithub/trail/usingRevisionHistory/text.md is empty
+2025-06-28T08:49:03.470Z - warn: Empty reference in /Users/zikunzhu/Desktop/course_website/course_website_markbind/schedule/week2/topics.md:
+Segment '#title' in file: /Users/zikunzhu/Desktop/course_website/course_website_markbind/book/gitAndGithub/trail/backingUpOnCloud/text.md is empty
+2025-06-28T08:49:03.471Z - warn: Empty reference in /Users/zikunzhu/Desktop/course_website/course_website_markbind/schedule/week2/topics.md:
+Segment '#title' in file: /Users/zikunzhu/Desktop/course_website/course_website_markbind/book/gitAndGithub/trail/usingRevisionHistory/text.md is empty
+2025-06-28T08:49:06.943Z - warn: Empty reference in /Users/zikunzhu/Desktop/course_website/course_website_markbind/schedule/week2/topics.md:
+Segment '#title' in file: /Users/zikunzhu/Desktop/course_website/course_website_markbind/book/gitAndGithub/trail/backingUpOnCloud/text.md is empty
+2025-06-28T08:49:06.944Z - warn: Empty reference in /Users/zikunzhu/Desktop/course_website/course_website_markbind/schedule/week2/topics.md:
+Segment '#title' in file: /Users/zikunzhu/Desktop/course_website/course_website_markbind/book/gitAndGithub/trail/usingRevisionHistory/text.md is empty
+2025-06-28T08:49:09.572Z - debug:  
+2025-06-28T08:49:21.261Z - debug:  
+2025-06-28T08:49:21.274Z - debug:  
+2025-06-28T08:49:27.869Z - info: Pages built
+2025-06-28T08:49:27.933Z - info: Site data built
+2025-06-28T08:49:27.933Z - info: Website generation complete! Total build time: 89.023s
+2025-06-28T08:49:27.942Z - info: Serving "/Users/zikunzhu/Desktop/course_website/course_website_markbind/_site" at http://127.0.0.1:8080
+2025-06-28T08:49:27.942Z - info: Press CTRL+C to stop ...

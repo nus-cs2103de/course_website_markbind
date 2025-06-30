@@ -255,9 +255,9 @@
     },
     {
       "src": "admin/courseOverview.md",
-      "title": "Admin: CS2103/T: Software Engineering",
+      "title": "Admin: CS2103DE: Software Engineering",
       "headings": {
-        "cs2103-t-software-engineering": "CS2103/T: Software Engineering "
+        "cs2103de-software-engineering": "CS2103DE: Software Engineering "
       },
       "headingKeywords": {}
     },
@@ -302,9 +302,9 @@
     },
     {
       "src": "admin/index.md",
-      "title": "Admin: CS2103/T: Software Engineering",
+      "title": "Admin: CS2103DE: Software Engineering",
       "headings": {
-        "cs2103-t-software-engineering": "CS2103/T: Software Engineering "
+        "cs2103de-software-engineering": "CS2103DE: Software Engineering "
       },
       "headingKeywords": {}
     },
@@ -359,7 +359,7 @@
         "1-learn-about-the-project": "1 Learn about the project",
         "2-set-up-prerequisites": "2 Set up prerequisites",
         "3-set-up-the-project-in-your-computer": "3 Set up the project in your computer",
-        "4-add-increments-while-committing-frequently-level-0-level-1-level-2-level-3-level-4-a-textuitesting-level-5-level-6-a-enums-fri-aug-22nd-1600": "4 Add Increments while committing frequently: Level-0, Level-1, Level-2, Level-3, Level-4, A-TextUiTesting, Level-5, Level-6, A-Enums  Fri, Aug 22nd 1600",
+        "4-add-increments-while-committing-frequently-level-0-level-1-level-2-level-3-level-4-a-textuitesting-level-5-level-6-a-enums-fri-jan-23rd-1600": "4 Add Increments while committing frequently: Level-0, Level-1, Level-2, Level-3, Level-4, A-TextUiTesting, Level-5, Level-6, A-Enums  Fri, Jan 23rd 1600",
         "keep-in-mind": "Keep in mind ...",
         "ip-feels-like-same-same": "iP feels like 'same same' ...?",
         "faq-about-ip-increments": "FAQ about iP increments"
@@ -387,7 +387,7 @@
         "dukepro": "DukePro",
         "ip-week-4": "iP: Week 4 ",
         "1-use-gfmd-in-the-pr-description": "1 Use GFMD in the PR description",
-        "2-review-some-peer-prs-fri-sep-5th-1600-counted-for-participation": "2 Review some peer PRs  Fri, Sep 5th 1600 counted for participation",
+        "2-review-some-peer-prs-fri-feb-6th-1600-counted-for-participation": "2 Review some peer PRs  Fri, Feb 6th 1600 counted for participation",
         "3-learn-from-others-optional": "3 Learn from others (optional)",
         "4-add-increments-as-branches-a-checkstyle-level-10-a-varargs": "4 Add Increments as branches: A-CheckStyle, Level-10, A-Varargs"
       },
@@ -414,7 +414,7 @@
         "1-add-increments-a-bettergui-a-personality-a-moreerrorhandling-a-moretesting-a-aiassisted": "1 Add Increments: A-BetterGui, A-Personality, A-MoreErrorHandling, A-MoreTesting, A-AiAssisted",
         "2-finalize-the-features": "2 Finalize the features",
         "3-set-up-a-product-website": "3 Set up a product website",
-        "4-submit-the-final-version-fri-sep-19th-2359": "4 Submit the final version  Fri, Sep 19th 2359"
+        "4-submit-the-final-version-fri-feb-20th-2359": "4 Submit the final version  Fri, Feb 20th 2359"
       },
       "headingKeywords": {}
     },
@@ -432,7 +432,7 @@
       "title": "Admin: iP: Week 8",
       "headings": {
         "ip-week-8": "iP: Week 8 ",
-        "1-evaluate-two-peer-ips-sat-oct-11th-2359-counted-for-participation": "1 Evaluate two peer iPs  Sat, Oct 11th 2359 counted for participation"
+        "1-evaluate-two-peer-ips-sat-mar-14th-2359-counted-for-participation": "1 Evaluate two peer iPs  Sat, Mar 14th 2359 counted for participation"
       },
       "headingKeywords": {}
     },
@@ -452,9 +452,9 @@
     },
     {
       "src": "admin/overview-for-teachers.md",
-      "title": "CS2103/T Overview (Teacher's POV)",
+      "title": "CS2103DE Overview (Teacher's POV)",
       "headings": {
-        "cs2103-t-overview-teacher-s-pov": "CS2103/T Overview (Teacher's POV)",
+        "cs2103de-overview-teacher-s-pov": "CS2103DE Overview (Teacher's POV)",
         "key-components": "Key components",
         "lectures": "Lectures",
         "tutorials": "Tutorials",
@@ -751,9 +751,9 @@
         "intro-to-tp-week-10": "Intro to tP Week 10",
         "1-do-a-postmortem-of-the-previous-iteration-before-the-tutorial": "1  Do a postmortem of the previous iteration  before the tutorial",
         "2-plan-the-alpha-version-v1-4": "2  Plan the alpha version (v1.4)",
-        "3-deliver-the-alpha-version-v1-4-thu-oct-23rd-23-59": "3  Deliver the alpha version (v1.4)  Thu, Oct 23rd 23:59",
+        "3-deliver-the-alpha-version-v1-4-thu-mar-26th-23-59": "3  Deliver the alpha version (v1.4)  Thu, Mar 26th 23:59",
         "ways-to-level-up-your-tp-game": " Ways to level up your tP game:",
-        "4-smoke-test-catcher-compulsory-fri-oct-24th-16-00-counted-for-participation": "4  Smoke-test CATcher  [COMPULSORY] Fri, Oct 24th 16:00 counted for participation",
+        "4-smoke-test-catcher-compulsory-fri-mar-27th-16-00-counted-for-participation": "4  Smoke-test CATcher  [COMPULSORY] Fri, Mar 27th 16:00 counted for participation",
         "5-start-updating-uml-diagrams-in-the-dg": "5  Start updating UML diagrams in the DG",
         "end-of-tp-week-10": "End of tP Week 10"
       },
@@ -768,8 +768,8 @@
         "1-alpha-test-the-product": "1  Alpha-test the product",
         "2-fix-alpha-test-bugs-fine-tune-features-improve-code-quality": "2  Fix alpha-test bugs, fine-tune features, improve code quality",
         "3-update-ug-and-dg": "3  Update UG and DG",
-        "4-release-v1-5-thu-oct-30th-23-59": "4  Release v1.5  Thu, Oct 30th 23:59",
-        "5-attend-the-practical-exam-dry-run-fri-oct-31st-1600-1800-counted-for-participation": "5  Attend the practical exam dry run  Fri, Oct 31st 1600-1800 counted for participation"
+        "4-release-v1-5-thu-apr-2nd-23-59": "4  Release v1.5  Thu, Apr 2nd 23:59",
+        "5-attend-the-practical-exam-dry-run-fri-apr-3rd-1600-1800-counted-for-participation": "5  Attend the practical exam dry run  Fri, Apr 3rd 1600-1800 counted for participation"
       },
       "headingKeywords": {}
     },
@@ -780,11 +780,11 @@
         "tp-week-12-public-release-v1-6": "tP Week 12: Public Release → v1.6 ",
         "intro-to-tp-week-12": "Intro to tP Week 12",
         "1-fix-pe-d-bugs": "1  Fix PE-D bugs",
-        "2-submit-final-deliverables-tue-nov-4th-14-00": "2  Submit final deliverables  Tue, Nov 4th 14:00",
+        "2-submit-final-deliverables-tue-apr-7th-14-00": "2  Submit final deliverables  Tue, Apr 7th 14:00",
         "3-prepare-for-the-practical-exam": "3  Prepare for the practical exam",
         "4-ensure-the-code-is-reposense-compatible": "4  Ensure the code is RepoSense-compatible",
-        "5-attend-the-practical-exam-fri-nov-7th-1600-1800": "5  Attend the practical exam  Fri, Nov 7th 1600-1800",
-        "6-if-needed-attend-the-re-scheduled-practical-exam-sun-nov-9th-1400-1600": "6  [if needed] Attend the re-scheduled practical exam  Sun, Nov 9th 1400-1600"
+        "5-attend-the-practical-exam-fri-apr-10th-1600-1800": "5  Attend the practical exam  Fri, Apr 10th 1600-1800",
+        "6-if-needed-attend-the-re-scheduled-practical-exam-sun-apr-12th-1400-1600": "6  [if needed] Attend the re-scheduled practical exam  Sun, Apr 12th 1400-1600"
       },
       "headingKeywords": {}
     },
@@ -809,9 +809,9 @@
       "headings": {
         "tp-week-3-kickoff": "tP Week 3: Kickoff ",
         "intro-to-tp-week-3": "Intro to tP Week 3",
-        "1-individual-task-explore-ab3-features-sat-aug-30th-23-59": "1  Individual Task: Explore AB3 features  Sat, Aug 30th 23:59",
-        "2-team-task-set-up-a-project-meeting-time-tue-sep-2nd": "2  Team Task: Set up a project meeting time  Tue, Sep 2nd ",
-        "3-team-task-check-up-on-team-s-collective-ip-status-tue-sep-2nd": "3  Team Task: Check up on team's collective iP status  Tue, Sep 2nd "
+        "1-individual-task-explore-ab3-features-sat-jan-31st-23-59": "1  Individual Task: Explore AB3 features  Sat, Jan 31st 23:59",
+        "2-team-task-set-up-a-project-meeting-time-tue-feb-3rd": "2  Team Task: Set up a project meeting time  Tue, Feb 3rd ",
+        "3-team-task-check-up-on-team-s-collective-ip-status-tue-feb-3rd": "3  Team Task: Check up on team's collective iP status  Tue, Feb 3rd "
       },
       "headingKeywords": {}
     },
@@ -823,7 +823,7 @@
         "intro-to-tp-week-4": "Intro to tP Week 4",
         "1-start-weekly-project-meetings": "1  Start weekly project meetings",
         "2-start-a-collaborative-doc-to-take-project-notes-before-the-tutorial": "2  Start a collaborative doc to take project notes  before the tutorial",
-        "3-decide-on-an-overall-project-direction-user-profile-value-proposition-decide-by-tutorial-submit-by-sat-sep-6th-23-59": "3  Decide on an overall project direction (user profile, value proposition)  decide by tutorial, submit by: Sat, Sep 6th 23:59"
+        "3-decide-on-an-overall-project-direction-user-profile-value-proposition-decide-by-tutorial-submit-by-sat-feb-7th-23-59": "3  Decide on an overall project direction (user profile, value proposition)  decide by tutorial, submit by: Sat, Feb 7th 23:59"
       },
       "headingKeywords": {
         "target-user-and-amp-value-proposition": [
@@ -849,7 +849,7 @@
         "tp-week-6-define-the-mvp": "tP Week 6: Define the MVP ",
         "intro-to-tp-week-6": "Intro to tP Week 6",
         "1-conceptualize-the-mvp-version": "1  Conceptualize the MVP version",
-        "2-draft-the-feature-specification-sun-sep-21st-23-59": "2  Draft the feature specification  Sun, Sep 21st 23:59",
+        "2-draft-the-feature-specification-sun-feb-22nd-23-59": "2  Draft the feature specification  Sun, Feb 22nd 23:59",
         "3-set-up-the-project-repo": "3  Set up the project repo",
         "4-get-familiar-with-the-codebase": "4  Get familiar with the codebase"
       },
@@ -861,7 +861,7 @@
       "headings": {
         "tp-week-7-practice-iteration-v1-1": "tP Week 7: Practice Iteration → v1.1 ",
         "intro-to-tp-week-7": "Intro to tP Week 7",
-        "1-do-a-workflow-practice-session-thu-oct-2nd-23-59": "1  Do a 'workflow practice' session  Thu, Oct 2nd 23:59",
+        "1-do-a-workflow-practice-session-thu-mar-5th-23-59": "1  Do a 'workflow practice' session  Thu, Mar 5th 23:59",
         "adding-a-photo": "Adding a photo",
         "2-update-the-project-website": "2  Update the project website",
         "3-update-the-dg-user-stories-glossary-nfrs-use-cases": "3  Update the DG: user stories, glossary, NFRs, use cases",
@@ -877,7 +877,7 @@
         "intro-to-tp-week-8": "Intro to tP Week 8",
         "1-divide-mvp-features-among-members": "1  Divide MVP features among members",
         "2-optional-rename-packages-classes": "2 / [Optional] Rename packages/classes",
-        "3-add-the-first-functionality-increment-thu-oct-9th-23-59": "3  Add the first functionality increment  Thu, Oct 9th 23:59",
+        "3-add-the-first-functionality-increment-thu-mar-12th-23-59": "3  Add the first functionality increment  Thu, Mar 12th 23:59",
         "end-of-tp-week-8": "End of tP Week 8"
       },
       "headingKeywords": {}
@@ -889,7 +889,7 @@
         "tp-week-9-mvp-v1-3": "tP Week 9: MVP → v1.3 ",
         "intro-to-tp-week-9": "Intro to tP Week 9",
         "1-plan-the-first-product-release-v1-3": "1  Plan the first product release (v1.3)",
-        "2-manage-the-iteration-and-deliver-v1-3-thu-oct-16th-23-59": "2  Manage the iteration, and deliver v1.3  Thu, Oct 16th 23:59",
+        "2-manage-the-iteration-and-deliver-v1-3-thu-mar-19th-23-59": "2  Manage the iteration, and deliver v1.3  Thu, Mar 19th 23:59",
         "end-of-tp-week-9": "End of tP Week 9"
       },
       "headingKeywords": {}
@@ -966,7 +966,7 @@
       "src": "se-book-adapted/index.md",
       "title": "Textbook",
       "headings": {
-        "software-engineering-for-self-directed-learners-cs2103-t-edition-2025-aug-nov": "Software Engineering for Self-Directed Learners CS2103/T edition - 2025 Aug-Nov"
+        "software-engineering-for-self-directed-learners-cs2103de-edition-2026-jan-may": "Software Engineering for Self-Directed Learners CS2103DE edition - 2026 Jan-May"
       },
       "headingKeywords": {}
     },
