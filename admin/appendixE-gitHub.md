@@ -107,7 +107,7 @@ Example AB3 website using Jekyll: [here](https://se-education.org/addressbook-le
 <panel header="##### MarkBind" expanded>
 
 **Pros:**
-* Optimized for creating course/project websites -- also used by CS2103/T website<br>
+* Optimized for creating course/project websites -- also used by CS2103DE website<br>
   e.g., Built-in support for PlantUML, and many other features useful for project documentation
 * Easier to set up locally (and JavaScript based, rather than Ruby)
 

@@ -1,9 +1,9 @@
 <frontmatter>
-title: CS2103/T Overview (Teacher's POV)
+title: CS2103DE Overview (Teacher's POV)
 pageNav: 2
 </frontmatter>
 
-# ++CS2103/T Overview (Teacher's POV)++
+# ++CS2103DE Overview (Teacher's POV)++
 
 **The goal of the course is to prepare students for SE internships** (note: most students do their first internship at the end of their second year, before taking any other SE courses). That includes teaching students **basic SE concepts** as well as giving them enough **practice in tools, techniques, and practices used in the industry**. This is a CS foundation course, which also can be considered as the entry point to the SE focus area, as most other SE courses have this course in the prerequisite chain.
 
@@ -31,7 +31,7 @@ Here is the grade breakdown:
 
 ## Lectures{.text-info}
 
-**As CS2103/T is under the PVO's BL2.0 initiative, it is delivered in blended mode.** The primary content delivery mechanism is the online textbook + pre-recorded videos (For example, topics in [Schedule -> Week 7 -> Topics](../schedule/week7/topics.html) page).
+**As CS2103DE is under the PVO's BL2.0 initiative, it is delivered in blended mode.** The primary content delivery mechanism is the online textbook + pre-recorded videos (For example, topics in [Schedule -> Week 7 -> Topics](../schedule/week7/topics.html) page).
 
 The lecture is shorter (about 1 hour), and is used for a 'briefing' only, consisting of two parts:
 1. A recap of the previous week's topics e.g., reiterate finer points
@@ -230,7 +230,7 @@ As the course is heavy on the practice side, it does not contain a heavy/deep th
 # Challenges{.text-danger}
 
 Albeit being academically strong, most our students lack programming experience outside of school courses. Getting them to be ready to work in an actual SE project is a formidable challenge. especially when done at a scale of ~500 students/semester.
-Following from the main goal of the course (i.e., preparing students for internships), there are two key requirements that makes CS2103/T harder to run than a typical first SE course:
+Following from the main goal of the course (i.e., preparing students for internships), there are two key requirements that makes CS2103DE harder to run than a typical first SE course:
 
 1. **The need to train students on the iterative software development process**: While the more common approach is for the first SE course to train students on a _sequential_ (i.e., _waterfall_) process and move to an _iterative_ process in the second SE course, this course needs to train students on the more industry-friendly iterative process from the beginning, as some may go for internships before taking a second SE course.
 2. **The need to train students to work in both greenfield and brownfield projects**: As internships can involve both types of projects, we need to train students for both.

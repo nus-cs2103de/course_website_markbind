@@ -78,7 +78,7 @@ This week's briefing videos start with a detour.
 <div id="course-briefing-w3">
 
 
-****CS2103/T Pitfalls (and how to avoid them)****{.text-info}
+****CS2103DE Pitfalls (and how to avoid them)****{.text-info}
 
 {{ panopto(desc="9 mins", "036e3b1c-3cf0-446e-9281-b100012b50da", start_week="2") }}
 

@@ -16,7 +16,7 @@
 {% endmacro %}
 
 {% if current_week == "-1" %}
-<div class="w-100 p-1 bg-warning text-center d-print-none"><md>**This is a draft version of the website! The final version will be available near the start of the semester.**</md></div>
+<div class="w-100 p-1 bg-warning text-center d-print-none"><md>**Hi Prof Pranavan, we can work on the existing codebase from SoC (if permitted) and make changes to course content here. This is the least costly, safest fallback option.**</md></div>
 {% endif %}{% if current_week in ["-1", "0", "1"] %}
 <div class="w-100 p-1 bg-success text-white text-center d-print-none"><md>{% if cs2113 %}All the course activities are scheduled to be _in-person_ activities this semester.{% else %}This course will be delivered in _blended learning_ mode (i.e., a mix of online and F2F activities) this semester.{% endif %}</md></div>
 {% elseif current_week == "15" %}

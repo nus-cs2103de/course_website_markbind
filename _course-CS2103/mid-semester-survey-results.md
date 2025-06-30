@@ -1,7 +1,7 @@
 {% from "common/macros.njk" import show_faq with context %}
 
 <h1>
-<span class="text-info">CS2103/T Mid-Semester Survey Followup</span>
+<span class="text-info">CS2103DE Mid-Semester Survey Followup</span>
  <small class="text-muted">[AY2425S2]</small>
 </h1>
 
@@ -104,7 +104,7 @@ Hence, you can skip weekly briefings (or simply speed-watch the recording later)
  are short of time or if you think they are not useful to you.
  Even the in-briefing quiz questions are 'optional' in the sense they are unlikely to make a
  difference in your final participation marks.<br>
- **:fas-exclamation: Caveat: Totally ignoring weekly briefings will disqualify you from future CS2103/T 
+ **:fas-exclamation: Caveat: Totally ignoring weekly briefings will disqualify you from future CS2103DE 
  tutor positions**
  though, as we do not want to employ as a tutor someone who hasn't received the _full view_ of the course.
    
