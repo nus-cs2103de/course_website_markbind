@@ -2,168 +2,41 @@
 
 ## Staff
 
-<div id="Damith" class="container">
+<div id="Theivendiram" class="container">
   <div class="row bt-2">
     <div class="col-3">
 
-<img src="images/damith.png" width="150" class="mt-1 rounded"/>
+<img src="https://cde.nus.edu.sg/ece/wp-content/uploads/sites/3/2025/02/Dr-Theivendiram-Pranavan.jpg" width="150" class="mt-1 rounded"/>
     </div>
     <div class="col">
 
-### **Damith** Chatura RAJAPAKSE
+### Theivendiram **PRANAVAN**
 
 **Course Coordinator**<br>
-%%:fas-envelope:%% `damith`[at]`comp.nus.edu.sg`<br>
-%%:fas-map-marker-alt:%% COM2-02-57 | %%:fas-phone-square:%% 6516 4359<br>
-%%:fas-home:%% https://www.comp.nus.edu.sg/~damithch | %%:fab-github:%% [@damithc](https://github.com/damithc)
+%%:fas-envelope:%% `pranat`[at]`nus.edu.sg`<br>
+%%:fas-home:%% https://cde.nus.edu.sg/ece/staff/theivendiram-pranavan/ | %%:fab-github:%% [@Pranavan135](https://github.com/Pranavan135)
     </div>
   </div>
 </div>
 
-<!-- -----------------------------
-
-<div id="Michael" class="container">
-  <div class="row bt-2">
-    <div class="col-3">
-
-<img src="{{ url_course_gihub_io }}/tutor-photos/adamsmd.png" width="150" onerror="this.src='images/placeholder-large.png';" class="mt-1 rounded">
-    </div>
-    <div class="col">
-
-### **Michael** D. Adams
-
-**Co-Lecturer**<br>
-%%:fas-envelope:%% `adamsmd`[at]`nus.edu.sg`<br>
-%%:fas-map-marker-alt:%% COM3‐02‐47<br>
-%%:fab-github:%% [@adamsmd](https://github.com/adamsmd)
-
-</div>
-</div>
-</div>
-
 -----------------------------
 
-<div id="Prabhu" class="container">
+<div id="Zikun" class="container">
   <div class="row bt-2">
     <div class="col-3">
 
-<img src="{{ url_course_gihub_io }}/tutor-photos/prabhu-na.png" width="150" onerror="this.src='images/placeholder-large.png';" class="mt-1 rounded">
+<img src="https://cde.nus.edu.sg/ece/wp-content/uploads/sites/3/2025/02/Mr-Zhu-Zikun.jpg" width="150" class="mt-1 rounded"/>
     </div>
     <div class="col">
 
-### **Prabhu** NATARAJAN
-
-**Co-Lecturer**<br>
-%%:fas-envelope:%% `prabhu`[at]`comp.nus.edu.sg`<br>
-%%:fas-map-marker-alt:%% COM3-02-34 | %%:fas-phone-square:%% 6516 1105<br>
-%%:fab-github:%% [@prabhu-na](https://github.com/prabhu-na)
-
-</div>
-</div>
-</div>
--->
------------------------------
-
-<div id="Ganesh" class="container">
-  <div class="row bt-2">
-    <div class="col-3">
-
-
-<img src="{{ url_course_gihub_io }}/tutor-photos/ganeshniyer.png" width="150" onerror="this.src='images/placeholder-large.png';" class="mt-1 rounded">
-    </div>
-    <div class="col">
-
-### **Ganesh** Neelakanta Iyer
+### Zikun **ZHU**
 
 **Lecturer**<br>
-%%:fas-envelope:%% `gni`[at]`nus.edu.sg`<br>
-%%:fas-map-marker-alt:%% COM2-03-55 | %%:fas-phone-square:%% 6601 7601<br>
-%%:fab-github:%% [@ganeshniyer](https://github.com/ganeshniyer)
-
-</div>
-</div>
-</div>
-
------------------------------
-
-<div id="Eric" class="container">
-<div class="row bt-2">
-<div class="col-3">
-
-
-<img src="{{ url_course_gihub_io }}/tutor-photos/eric-vader.png" width="150" onerror="this.src='images/placeholder-large.png';" class="mt-1 rounded">
-</div>
-<div class="col">
-
-### Han Liang Wee **Eric**
-
-**Lecturer**<br>
-%%:fas-envelope:%% `eric_han`[at]`nus.edu.sg`<br>
-%%:fas-map-marker-alt:%% COM2-03-26 | %%:fas-phone-square:%% 6601 7639<br>
-%%:fab-github:%% [@eric-vader](https://github.com/eric-vader)
-
-</div>
-</div>
-</div>
-
------------------------------
-
-<div id="Danny" class="container">
-  <div class="row bt-2">
-    <div class="col-3">
-
-<img src="{{ url_course_gihub_io }}/tutor-photos/bluesky0911.png" width="150" onerror="this.src='images/placeholder-large.png';" class="mt-1 rounded">
-    </div>
-    <div class="col">
-
-### Kim hyeongcheol (**Danny**)
-
-**Head TA**<br>
-%%:fas-envelope:%% `dcskh`[at]`nus.edu.sg`<br>
-%%:fas-phone-square:%% 8750 5674<br>
-%%:fab-github:%% [@bluesky0911](https://github.com/bluesky0911)
+%%:fas-envelope:%% `zikun`[at]`nus.edu.sg`<br>
+%%:fas-home:%% https://cde.nus.edu.sg/ece/staff/zhu-zikun | %%:fab-github:%% [@zikunz](https://github.com/zikunz)
     </div>
   </div>
 </div>
-
------------------------------
-
-<div id="Tzer-Bin" class="container">
-  <div class="row bt-2">
-    <div class="col-3">
-
-<img src="{{ url_course_gihub_io }}/tutor-photos/tzerbin.png" width="150" onerror="this.src='images/placeholder-large.png';" class="mt-1 rounded">
-    </div>
-    <div class="col">
-
-### **Tzer Bin**
-
-**TA**<br>
-%%:fas-envelope:%% `dcsnt`[at]`nus.edu.sg`<br>
-%%:fab-github:%% [@tzerbin](https://github.com/tzerbin)
-    </div>
-  </div>
-</div>
-
-<!-- -----------------------------
-<div id="Anis" class="container">
-  <div class="row bt-2">
-    <div class="col-3">
-
-<img src="{{ url_course_gihub_io }}/tutor-photos/anisyusof-sc.png" width="150" onerror="this.src='images/placeholder-large.png';" class="mt-1 rounded">
-    </div>
-    <div class="col">
-
-### **Anis** Bin Yusof
-
-**Graduate Tutor**<br>
-%%:fas-envelope:%% `anis`[at]`comp.nus.edu.sg`<br>
-%%:fas-phone-square:%% 6516 8557<br>
-%%:fab-github:%% [@anisyusof-sc](https://github.com/anisyusof-sc)
-    </div>
-  </div>
-</div>
--->
 
 ## Tutors
 {% for t in tutors %}

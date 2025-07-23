@@ -18,10 +18,19 @@ The <span class="font-weight-bold">{{ url_schedule }}</span> is ==_the_ one page
 
 </div>
 <!-- =============================================================== -->
-<div id="faq-tVsNonT-Q">What are the differences between CS2103T and CS2103?</div>
+<div id="faq-tVsNonT-Q">What are the differences between CS2103DE and CS2103/T?</div>
 <div id="faq-tVsNonT-A">
 
-Same content, same assessments, same exam. Separate tutorials, separate grading. Unless specified otherwise, whatever is stated for one course applies to the other.
+**CS2103DE** is an innovative offering by the **College of Design and Engineering (CDE)** as part of the Second Major/Minor in Computing (Design and Engineering), while CS2103/T is offered by the School of Computing.
+
+CS2103DE brings a unique perspective by **integrating design and engineering principles** into software engineering education. This variant is specifically tailored to leverage CDE students' interdisciplinary background, combining their engineering fundamentals with software development practices.
+
+**Key advantages of CS2103DE:**
+* **Contextual Learning**: Examples and projects are crafted to resonate with engineering applications, making the content more relevant to CDE students' primary domains
+* **Cross-disciplinary Approach**: Emphasizes the intersection of software engineering with design thinking and engineering problem-solving methodologies
+* **Tailored Support**: Teaching approach adapted to suit students who may be approaching software engineering from non-computing backgrounds
+
+While all three courses share the same core software engineering concepts and learning outcomes, CS2103DE provides a learning environment that better aligns with the unique perspectives and career trajectories of CDE students pursuing computing as a complementary skillset to their engineering expertise.
 
 </div>
 <!-- =============================================================== -->
