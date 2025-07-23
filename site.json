@@ -79,7 +79,7 @@
   },
   "deploy": {
     "message": "Site Update.",
-    "repo": "git@github.com:nus-cs2103de/course_website_markbind.git",
+    "repo": "https://github.com/nus-cs2103de/course_website_markbind.git",
     "branch": "gh-pages"
   }
 }

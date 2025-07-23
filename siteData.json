@@ -48,7 +48,7 @@
       "title": "Admin: Apdx C: FAQ",
       "headings": {
         "faq-where-is-everything": " FAQ Where is everything?",
-        "faq-what-are-the-differences-between-cs2103t-and-cs2103": " FAQ What are the differences between CS2103T and CS2103?",
+        "faq-what-are-the-differences-between-cs2103de-and-cs2103-t": " FAQ What are the differences between CS2103DE and CS2103/T?",
         "faq-what-are-the-extra-requirements-to-get-an-a": " FAQ What are the extra requirements to get an A+?",
         "faq-why-so-much-bean-counting": " FAQ Why so much bean counting?",
         "faq-why-use-a-separate-website-instead-of-canvas": " FAQ Why use a separate website instead of Canvas?",
@@ -314,11 +314,8 @@
       "headings": {
         "instructors-optional": "Instructors : OPTIONAL",
         "staff": "Staff",
-        "damith-chatura-rajapakse": "Damith Chatura RAJAPAKSE",
-        "ganesh-neelakanta-iyer": "Ganesh Neelakanta Iyer",
-        "han-liang-wee-eric": "Han Liang Wee Eric",
-        "kim-hyeongcheol-danny": "Kim hyeongcheol (Danny)",
-        "tzer-bin": "Tzer Bin",
+        "theivendiram-pranavan": "Theivendiram PRANAVAN",
+        "zikun-zhu": "Zikun ZHU",
         "tutors": "Tutors",
         "dev-team": "Dev Team"
       },
@@ -913,11 +910,8 @@
       "src": "admin/tutors-info.md",
       "headings": {
         "staff": "Staff",
-        "damith-chatura-rajapakse": "Damith Chatura RAJAPAKSE",
-        "ganesh-neelakanta-iyer": "Ganesh Neelakanta Iyer",
-        "han-liang-wee-eric": "Han Liang Wee Eric",
-        "kim-hyeongcheol-danny": "Kim hyeongcheol (Danny)",
-        "tzer-bin": "Tzer Bin",
+        "theivendiram-pranavan": "Theivendiram PRANAVAN",
+        "zikun-zhu": "Zikun ZHU",
         "tutors": "Tutors"
       },
       "headingKeywords": {}
