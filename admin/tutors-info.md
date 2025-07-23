@@ -31,7 +31,7 @@
 
 ### Zikun **ZHU**
 
-**Lecturer**<br>
+**Head TA**<br>
 %%:fas-envelope:%% `zikun`[at]`nus.edu.sg`<br>
 %%:fas-home:%% https://cde.nus.edu.sg/ece/staff/zhu-zikun | %%:fab-github:%% [@zikunz](https://github.com/zikunz)
     </div>
