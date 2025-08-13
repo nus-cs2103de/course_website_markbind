@@ -1,0 +1,50 @@
+2025-08-13T03:52:37.949Z - info: Website generation started at 11:52:37 AM
+2025-08-13T03:52:38.124Z - info: Building assets...
+2025-08-13T03:52:38.291Z - info: Assets built
+2025-08-13T03:52:38.292Z - info: Generating pages...
+2025-08-13T03:52:46.230Z - debug:  
+2025-08-13T03:52:46.231Z - debug:  
+2025-08-13T03:52:46.231Z - debug:  
+2025-08-13T03:52:46.231Z - debug:  
+2025-08-13T03:52:46.231Z - debug:  
+2025-08-13T03:52:46.231Z - debug:  
+2025-08-13T03:52:46.231Z - debug:  
+2025-08-13T03:52:46.232Z - debug:  
+2025-08-13T03:52:46.232Z - debug:  
+2025-08-13T03:52:46.232Z - debug:  
+2025-08-13T03:52:46.233Z - debug:  
+2025-08-13T03:52:46.233Z - debug:  
+2025-08-13T03:52:46.233Z - debug:  
+2025-08-13T03:52:46.233Z - debug:  
+2025-08-13T03:52:46.234Z - debug:  
+2025-08-13T03:52:46.234Z - debug:  
+2025-08-13T03:52:46.234Z - debug:  
+2025-08-13T03:52:56.706Z - debug:  
+2025-08-13T03:53:25.210Z - warn: Empty reference in /Users/zikunzhu/Desktop/course_website/test/course_website_markbind/schedule/week2/topics.md:
+Segment '#title' in file: /Users/zikunzhu/Desktop/course_website/test/course_website_markbind/book/gitAndGithub/trail/backingUpOnCloud/text.md is empty
+2025-08-13T03:53:25.212Z - warn: Empty reference in /Users/zikunzhu/Desktop/course_website/test/course_website_markbind/schedule/week2/topics.md:
+Segment '#title' in file: /Users/zikunzhu/Desktop/course_website/test/course_website_markbind/book/gitAndGithub/trail/usingRevisionHistory/text.md is empty
+2025-08-13T03:53:25.327Z - warn: Empty reference in /Users/zikunzhu/Desktop/course_website/test/course_website_markbind/schedule/week2/topics.md:
+Segment '#title' in file: /Users/zikunzhu/Desktop/course_website/test/course_website_markbind/book/gitAndGithub/trail/backingUpOnCloud/text.md is empty
+2025-08-13T03:53:25.368Z - warn: Empty reference in /Users/zikunzhu/Desktop/course_website/test/course_website_markbind/schedule/week2/topics.md:
+Segment '#title' in file: /Users/zikunzhu/Desktop/course_website/test/course_website_markbind/book/gitAndGithub/trail/usingRevisionHistory/text.md is empty
+2025-08-13T03:53:40.808Z - warn: Empty reference in /Users/zikunzhu/Desktop/course_website/test/course_website_markbind/schedule/week2/topics.md:
+Segment '#title' in file: /Users/zikunzhu/Desktop/course_website/test/course_website_markbind/book/gitAndGithub/trail/backingUpOnCloud/text.md is empty
+2025-08-13T03:53:40.809Z - warn: Empty reference in /Users/zikunzhu/Desktop/course_website/test/course_website_markbind/schedule/week2/topics.md:
+Segment '#title' in file: /Users/zikunzhu/Desktop/course_website/test/course_website_markbind/book/gitAndGithub/trail/usingRevisionHistory/text.md is empty
+2025-08-13T03:53:44.462Z - warn: Empty reference in /Users/zikunzhu/Desktop/course_website/test/course_website_markbind/schedule/week2/topics.md:
+Segment '#title' in file: /Users/zikunzhu/Desktop/course_website/test/course_website_markbind/book/gitAndGithub/trail/backingUpOnCloud/text.md is empty
+2025-08-13T03:53:44.464Z - warn: Empty reference in /Users/zikunzhu/Desktop/course_website/test/course_website_markbind/schedule/week2/topics.md:
+Segment '#title' in file: /Users/zikunzhu/Desktop/course_website/test/course_website_markbind/book/gitAndGithub/trail/usingRevisionHistory/text.md is empty
+2025-08-13T03:53:46.908Z - debug:  
+2025-08-13T03:53:58.576Z - debug:  
+2025-08-13T03:53:58.593Z - debug:  
+2025-08-13T03:54:04.301Z - info: Pages built
+2025-08-13T03:54:04.379Z - info: Site data built
+2025-08-13T03:54:04.379Z - info: Website generation complete! Total build time: 86.465s
+2025-08-13T03:54:04.392Z - info: Serving "/Users/zikunzhu/Desktop/course_website/test/course_website_markbind/_site" at http://127.0.0.1:8080
+2025-08-13T03:54:04.392Z - info: Press CTRL+C to stop ...
+2025-08-13T03:55:17.662Z - info: [11:55:17 AM] Reload for file change: /Users/zikunzhu/Desktop/course_website/test/course_website_markbind/README.md
+2025-08-13T03:55:18.674Z - info: Assets built
+2025-08-13T03:56:08.044Z - info: Website generation started at 11:56:07 AM
+2025-08-13T03:56:08.230Z - info: Building assets...
